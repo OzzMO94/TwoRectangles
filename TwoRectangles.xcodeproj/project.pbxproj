@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9407BC84277DD15E0082C368 /* twoFigure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = twoFigure.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9407BC84277DD15E0082C368 /* TwoRectangles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwoRectangles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9407BC87277DD15E0082C368 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9407BC89277DD15E0082C368 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9407BC8B277DD15E0082C368 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		9407BC7B277DD15E0082C368 = {
 			isa = PBXGroup;
 			children = (
-				9407BC86277DD15E0082C368 /* twoFigure */,
+				9407BC86277DD15E0082C368 /* TwoRectangles */,
 				9407BC85277DD15E0082C368 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		9407BC85277DD15E0082C368 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9407BC84277DD15E0082C368 /* twoFigure.app */,
+				9407BC84277DD15E0082C368 /* TwoRectangles.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9407BC86277DD15E0082C368 /* twoFigure */ = {
+		9407BC86277DD15E0082C368 /* TwoRectangles */ = {
 			isa = PBXGroup;
 			children = (
 				9407BC87277DD15E0082C368 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				9407BC92277DD15F0082C368 /* LaunchScreen.storyboard */,
 				9407BC95277DD15F0082C368 /* Info.plist */,
 			);
-			path = twoFigure;
+			path = TwoRectangles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9407BC83277DD15E0082C368 /* twoFigure */ = {
+		9407BC83277DD15E0082C368 /* TwoRectangles */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9407BC98277DD15F0082C368 /* Build configuration list for PBXNativeTarget "twoFigure" */;
+			buildConfigurationList = 9407BC98277DD15F0082C368 /* Build configuration list for PBXNativeTarget "TwoRectangles" */;
 			buildPhases = (
 				9407BC80277DD15E0082C368 /* Sources */,
 				9407BC81277DD15E0082C368 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = twoFigure;
+			name = TwoRectangles;
 			productName = twoFigure;
-			productReference = 9407BC84277DD15E0082C368 /* twoFigure.app */;
+			productReference = 9407BC84277DD15E0082C368 /* TwoRectangles.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9407BC7F277DD15E0082C368 /* Build configuration list for PBXProject "twoFigure" */;
+			buildConfigurationList = 9407BC7F277DD15E0082C368 /* Build configuration list for PBXProject "TwoRectangles" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9407BC83277DD15E0082C368 /* twoFigure */,
+				9407BC83277DD15E0082C368 /* TwoRectangles */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9407BC7F277DD15E0082C368 /* Build configuration list for PBXProject "twoFigure" */ = {
+		9407BC7F277DD15E0082C368 /* Build configuration list for PBXProject "TwoRectangles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9407BC96277DD15F0082C368 /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9407BC98277DD15F0082C368 /* Build configuration list for PBXNativeTarget "twoFigure" */ = {
+		9407BC98277DD15F0082C368 /* Build configuration list for PBXNativeTarget "TwoRectangles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9407BC99277DD15F0082C368 /* Debug */,
